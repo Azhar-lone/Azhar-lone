@@ -18,13 +18,12 @@ Welcome to my GitHub profile! I am Azhar Lone, a full-stack developer specializi
 
 [![GitHub followers](https://img.shields.io/github/followers/azhar-lone?label=Follow&style=social)](https://github.com/azhar-lone)
 [![GitHub stars](https://img.shields.io/github/stars/azhar-lone?label=Stars&style=social)](https://github.com/azhar-lone)
-)
 [![Open Source](https://img.shields.io/badge/Open%20Source-Yes-blue)](https://github.com/azhar-lone)
 
 ## How to Reach Me
 
 - 💬 [Chat on WhatsApp](https://wa.me/+923555812744)
-- 📧 Email: [azharlonem@gmail.com]
+- 📧 Email: [ send email](azharlonem@gmail.com)
 - 🌍 [My Website](https://azhar-lone-portfolio.vercel.app/)
 
 ## License
