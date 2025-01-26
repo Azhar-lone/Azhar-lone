@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I am Azhar Lone, a full-stack developer specializi
 ## How to Reach Me
 
 - 💬 [Chat on WhatsApp](https://wa.me/+923555812744)
-- 📧 Email: [ send email](azharlonem@gmail.com)
+- 📧 Email: azharlonem@gmail.com
 - 🌍 [My Website](https://azhar-lone-portfolio.vercel.app/)
 
 ## License
